@@ -6,5 +6,5 @@ Be patience in reading and understainding the code
 This is a simple notes I make to know basics to mid in Html you need to know!!!!
 
 
-Enjoy!!!!
+Enjoy!
 
