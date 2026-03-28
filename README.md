@@ -5,5 +5,6 @@ By the end of this we will gain basic foundation of Html.
 Have patience in reading and understainding the code, keep in mind that you must read comment carefully in code to understand what syntax purpose.
 This is a simple notes I make to know basics to mid in Html you need to know.
 
+That's all enjoy
 
-Enjoy!
+Enjoy!!
