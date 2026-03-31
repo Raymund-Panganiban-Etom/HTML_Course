@@ -7,4 +7,4 @@ This is a simple notes I make to know basics to mid in Html you need to know.
 
 That's all enjoy
 
-Enjoy.!
+Enjoy.!!
